@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Priyanshu Shekhar</h1>
-<h3 align="center">Computer Science Graduate Student @ USC | AI Enthusiast 🤖 | Builder 👨‍💻</h3>
+<h3 align="center">Computer Science Graduate Student @ USC | AI Enthusiast 🤖 | Software Engineer 👨‍💻</h3>
 
 ---
 
@@ -7,18 +7,18 @@
 
 🎓 I'm currently pursuing my **MS in Computer Science** with a specialization in **Artificial Intelligence** at the **University of Southern California** (USC).  
 💡 I'm passionate about solving real-world problems with **AI, ML, and NLP** and building robust systems.  
-📍 Originally from India 🇮🇳 | Based in Los Angeles 🌴  
-📫 How to reach me: [Email](mailto:priyanshushekhar@usc.edu) | [LinkedIn](https://www.linkedin.com/in/priyanshushekhar) | [GitHub](https://github.com/Priyanshu-Shekhar)  
+📍 Based in Los Angeles 🌴  
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/-priyanshu-shekhar) | [GitHub](https://github.com/Priyanshu-Shekhar)  
 
 ---
 
 ### 🧠 My Interests
 
-- 🧠 Artificial Intelligence & Deep Learning  
+- 🤖 Artificial Intelligence & Deep Learning  
 - 🗣️ Natural Language Processing  
-- 🌐 Web & API Scraping  
 - 📊 Data Science & Data Engineering  
-- 🛰️ Edge Computing and Autonomous Systems  
+- 🌐 Web & API Scraping  
+- 🛰️ Prompt Engineering
 
 ---
 
@@ -38,8 +38,12 @@
 
 ### 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-Shekhar&layout=compact&langs_count=6&theme=radical)
-![Priyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Priyanshu-Shekhar&show_icons=true&theme=radical)
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Priyanshu-Shekhar&show_icons=true&theme=radical" alt="GitHub Stats" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-Shekhar&layout=compact&langs_count=6&theme=radical" alt="Top Languages" /></td>
+  </tr>
+</table>
 
 ---
 
