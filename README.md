@@ -38,16 +38,15 @@
 
 ### 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=Priyanshu-Shekhar&show_icons=true&theme=radical" alt="GitHub Stats" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-Shekhar&layout=compact&langs_count=6&theme=radical" alt="Top Languages" /></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Priyanshu-Shekhar&show_icons=true&theme=gruvbox&hide_border=false&border_radius=10&custom_title=Priyanshu%20Shekhar's%20GitHub%20Stats&card_width=400" width="400px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-Shekhar&layout=compact&langs_count=6&theme=gruvbox&hide_border=false&border_radius=10&card_width=400" width="400px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshu-Shekhar&theme=gruvbox&hide_border=false&border_radius=10" width="820px"/>
+</p>
 
 ---
 
-### 🚀 Notable Projects
+### 🚀 Projects
 
 - **🔍 Twitter Censorship Application**  
   Sentiment analysis tool using Meta's RoBERTa model to classify tweets as positive, negative, or neutral.
@@ -68,7 +67,7 @@
 
 ### 🤝 Let's Connect!
 
-Feel free to check out my [portfolio](https://github.com/Priyanshu-Shekhar), star 🌟 your favorite project, or reach out for a collaboration!  
+Feel free to reach out to me [portfolio](https://www.linkedin.com/in/-priyanshu-shekhar).  
 Thanks for stopping by 🙏😊  
 
 ---
