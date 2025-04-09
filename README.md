@@ -39,19 +39,18 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Priyanshu-Shekhar&show_icons=true&theme=gruvbox&hide_border=false&border_radius=10&custom_title=Priyanshu%20Shekhar's%20GitHub%20Stats&card_width=400" width="400px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Priyansh-Shekhar&show_icons=true&theme=gruvbox&hide_border=false&border_radius=10&custom_title=Priyanshu%20Shekhar's%20GitHub%20Stats&card_width=400" width="400px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-Shekhar&layout=compact&langs_count=6&theme=gruvbox&hide_border=false&border_radius=10&card_width=400" width="400px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshu-Shekhar&theme=gruvbox&hide_border=false&border_radius=10" width="820px"/>
 </p>
 
 ---
 
 ### 🚀 Projects
 
-- **🔍 Twitter Censorship Application**  
+- **🔍 ![Twitter Censorship Application](https://github.com/Priyanshu-Shekhar/Twitter-Censorship-Application)**  
   Sentiment analysis tool using Meta's RoBERTa model to classify tweets as positive, negative, or neutral.
 
-- **🗨️ Mini-Twitter Application**  
+- **🗨️ ![Mini-Twitter Application](https://github.com/Priyanshu-Shekhar/MiniTwitter-Application)**  
   Simulated social media platform with features like messaging, following, and group chats.
 
 - **🛡️ Dark Web Threat Analysis**  
