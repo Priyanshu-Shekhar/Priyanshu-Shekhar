@@ -5,7 +5,7 @@
 
 ### 🔍 About Me
 
-🎓 I'm currently pursuing my **MS in Computer Science** with a specialization in **Artificial Intelligence** at the **University of Southern California** (USC).  
+🎓 I'm currently pursuing my **MS in Computer Science** with a specialization in **Artificial Intelligence** at the **University of Southern California**.  
 💡 I'm passionate about solving real-world problems with **AI, ML, and NLP** and building robust systems.  
 📍 Based in Los Angeles 🌴  
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/-priyanshu-shekhar) | [GitHub](https://github.com/Priyanshu-Shekhar)  
@@ -17,7 +17,7 @@
 🤖 Artificial Intelligence & Deep Learning  
 🗣️ Natural Language Processing  
 📊 Data Science & Data Engineering  
-🌐 Web Development 
+🌐 Web Development  
 🛰️ Prompt Engineering
 
 ---
