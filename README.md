@@ -39,8 +39,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Priyanshu-Shekhar&show_icons=true&theme=gruvbox&hide_border=false&border_radius=10&custom_title=Priyanshu%20Shekhar's%20GitHub%20Stats&card_width=400" width="400px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-Shekhar&layout=compact&langs_count=6&theme=gruvbox&hide_border=false&border_radius=10&card_width=400" width="400px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Priyanshu-Shekhar&show_icons=true&theme=gruvbox&hide_border=false&border_radius=10&custom_title=Priyanshu%20Shekhar's%20GitHub%20Stats&card_width=480" width="400px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-Shekhar&layout=compact&langs_count=6&theme=gruvbox&hide_border=false&border_radius=10&card_width=100" width="400px"/>
 </p>
 
 ---
