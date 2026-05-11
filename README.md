@@ -1,11 +1,11 @@
 <h1 align="center">Hi there 👋, I'm Priyanshu Shekhar</h1>
-<h3 align="center">Computer Science Graduate Student @ USC | AI Enthusiast 🤖 | Software Engineer 👨‍💻</h3>
+<h3 align="center">Computer Science Graduate from USC | AI Engineer 🤖 | Software Engineer 👨‍💻 | Data Scientist 📊 </h3>
 
 ---
 
 ### 🔍 About Me
 
-🎓 I'm currently pursuing **MS in Computer Science** with a specialization in **Artificial Intelligence** at **University of Southern California**.  
+🎓 I'm a graduate student with a **MS in Computer Science** with a specialization in **Artificial Intelligence** from **University of Southern California**.  
 💡 I'm passionate about solving real-world problems with **AI, Data Analysis, Software Engineering, and building robust systems**.  
 📍 Based in **Los Angeles** 🌴  
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/-priyanshu-shekhar)
