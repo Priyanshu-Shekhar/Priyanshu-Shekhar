@@ -86,6 +86,7 @@
 
 ### 🚀 Projects
 **🧬 ASLTutor**
+
 Multimodal ASL system integrating speech recognition, translation, and sign evaluation with real-time feedback.
 
 **🧪 SpamNet**  
