@@ -85,6 +85,8 @@
 ---
 
 ### 🚀 Projects
+**🧬 ASLTutor**
+End-to-end ASL learning platform combining speech recognition, Transformer-based translation, and video sign recognition with similarity-based feedback and real-time evaluation.
 
 **🧪 SpamNet**  
 A neural network-based classifier for spam detection and categorization.
