@@ -5,7 +5,7 @@
 
 ### 🔍 About Me
 
-🎓 I'm a graduate student with a **MS in Computer Science** with a specialization in **Artificial Intelligence** from **University of Southern California**.  
+🎓 I'm a 21-year-old graduate student with a **MS in Computer Science (Specialization: Artificial Intelligence)** from **University of Southern California**.  
 💡 I'm passionate about solving real-world problems with **AI, Data Analysis, Software Engineering, and building robust systems**.  
 📍 Based in **Los Angeles** 🌴  
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/-priyanshu-shekhar)
