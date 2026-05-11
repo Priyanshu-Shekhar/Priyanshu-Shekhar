@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Priyanshu Shekhar</h1>
-<h3 align="center">Computer Science Postgrad | AI Engineer 🤖 | Software Engineer 👨‍💻 | Data Scientist 📊 </h3>
+<h3 align="center">Computer Science Postgrad 🎓 | AI Engineer 🤖 | Software Engineer 👨‍💻 | Data Scientist 📊 </h3>
 
 ---
 
