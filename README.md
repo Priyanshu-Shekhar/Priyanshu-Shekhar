@@ -7,7 +7,7 @@
 
 🎓 I'm a Postgrad student with a **MS in Computer Science (Specialization: Artificial Intelligence)** from **University of Southern California**.  
 💡 I'm passionate about solving real-world problems with **AI, Data Analysis, Software Engineering, and building robust systems**.  
-📍 Based in **Los Angeles** 🌴  
+📍 Based in **United States** 🌴  
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/-priyanshu-shekhar)
 
 ---
