@@ -1,13 +1,13 @@
 <h1 align="center">Hi there 👋, I'm Priyanshu Shekhar</h1>
-<h3 align="center">Computer Science Postgrad 🎓 | AI Engineer 🤖 | Software Engineer 👨‍💻 | Data Scientist 📊 </h3>
+<h3 align="center">M.S. in Computer Science  🎓 | AI Engineer 🤖 | Software Engineer 👨‍💻 | Data Scientist 📊 </h3>
 
 ---
 
 ### 🔍 About Me
 
-🎓 I'm a Postgrad student with a **MS in Computer Science (Specialization: Artificial Intelligence)** from **University of Southern California**.  
-💡 I'm passionate about solving real-world problems with **AI, Data Analysis, Software Engineering, and building robust systems**.  
-📍 Based in **United States** 🌴  
+🎓 I hold a Master of Science in Computer Science, specialization in Artificial Intelligence, from the **University of Southern California**. 
+💡 I'm passionate about solving real-world problems with **AI, Data Analysis, Software Engineering** by building robust systems.  
+📍 Based out of **United States** 🌴  
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/-priyanshu-shekhar)
 
 ---
