@@ -5,7 +5,7 @@
 
 ### 🔍 About Me
 
-🎓 I hold a Master of Science in Computer Science, specialization in Artificial Intelligence, from the **University of Southern California**. 
+🎓 I hold a Master of Science in Computer Science, specialization in Artificial Intelligence, from the **University of Southern California**.    
 💡 I'm passionate about solving real-world problems with **AI, Data Analysis, Software Engineering** by building robust systems.  
 📍 Based out of **United States** 🌴  
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/-priyanshu-shekhar)
